@@ -1,4 +1,4 @@
-#Methodology
+# Methodology
 
 Following steps have been implemented to determine the authenticity of brand logos:
 ● Logo Input: This is the input module of the system, where logos are submitted for
