@@ -2,9 +2,9 @@
 
 Following steps have been implemented to determine the authenticity of brand logos:
 
-- **Logo Input**: This is the input module of the system, where logos are submitted for
+- **Logo Input:** This is the input module of the system, where logos are submitted for
 analysis. These logos may come from a given kaggle dataset.
-● Preprocessing: In this module, the logos are preprocessed and prepared for
+- **Preprocessing:** In this module, the logos are preprocessed and prepared for
 analysis. This may involve resizing the logos to a standard size, removing
 background noise or clutter, or performing other preprocessing steps to improve the
 quality of the logo for analysis.
