@@ -1,7 +1,8 @@
 # Methodology
 
 Following steps have been implemented to determine the authenticity of brand logos:
-● Logo Input: This is the input module of the system, where logos are submitted for
+
+- **Logo Input**: This is the input module of the system, where logos are submitted for
 analysis. These logos may come from a given kaggle dataset.
 ● Preprocessing: In this module, the logos are preprocessed and prepared for
 analysis. This may involve resizing the logos to a standard size, removing
